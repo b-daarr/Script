@@ -23,14 +23,4 @@ ECHO    DDDDDDD    EEEEEEEEE  FF         EEEEEEEEE  NN    NNN  DDDDDDD    II  NN
 ECHO.
 ECHO ----------------------------------------------------------
 "%ProgramFiles%\Windows Defender\MpCmdRun.exe" -Scan -File C:\ -ScanType 1
-CLS
-ECHO ----------------------------------------------------------
-ECHO.
-ECHO    CCCCCCCCC    OOOOOOOOO    MMMMMMM     MMMMMMM  PPPPPP
-ECHO    CC         OO         OO  MMMMMMMM   MMMMMMMM  PP   PP
-ECHO    CC         OO         OO  MMM   MMM MMM   MMM  PPPPPP
-ECHO    CC         OO         OO  MMM    MMMM     MMM  PP
-ECHO    CCCCCCCCC    OOOOOOOOO    MMM             MMM  PP
-ECHO.
-ECHO ----------------------------------------------------------
 PAUSE
