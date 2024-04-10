@@ -18,8 +18,8 @@ ECHO.
 ECHO    DDDDDDD    EEEEEEEEE  FFFFFFFFF  EEEEEEEEE  NNN    NN  DDDDDDD    II  NNN    NN  GGGGGGGGG
 ECHO    DD   DDD   EE         FF         EE         NN N   NN  DD   DDD   II  NN N   NN  GG
 ECHO    DD    DDD  EEEEEEE    FFFFFF     EEEEEEE    NN  N  NN  DD    DDD  II  NN  N  NN  GG   GGGG
-ECHO    DD   DDD   EE         FF         EE         NN   N NN  DD   DDD   II  NN   N NN  GG     GG  ..  ..  ..
-ECHO    DDDDDDD    EEEEEEEEE  FF         EEEEEEEEE  NN    NNN  DDDDDDD    II  NN    NNN  GGGGGGGGG  ..  ..  ..
+ECHO    DD   DDD   EE         FF         EE         NN   N NN  DD   DDD   II  NN   N NN  GG     GG
+ECHO    DDDDDDD    EEEEEEEEE  FF         EEEEEEEEE  NN    NNN  DDDDDDD    II  NN    NNN  GGGGGGGGG
 ECHO.
 ECHO ----------------------------------------------------------
 <<<<<<< HEAD
