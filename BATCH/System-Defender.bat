@@ -1,3 +1,5 @@
+//this file working on the Administrator mode
+
 @ECHO OFF
 
 COLOR 06
