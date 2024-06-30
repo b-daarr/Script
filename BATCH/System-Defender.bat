@@ -1,4 +1,4 @@
-#this file working on the Administrator mode
+::this file working on the Administrator mode
 
 @ECHO OFF
 
