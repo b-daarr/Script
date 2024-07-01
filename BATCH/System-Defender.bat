@@ -24,6 +24,5 @@ ECHO    DD   DDD   EE         FF         EE         NN   N NN  DD   DDD   II  NN
 ECHO    DDDDDDD    EEEEEEEEE  FF         EEEEEEEEE  NN    NNN  DDDDDDD    II  NN    NNN  GGGGGGGGG
 ECHO.
 ECHO ----------------------------------------------------------
-<<<<<<< HEAD
 "%ProgramFiles%\Windows Defender\MpCmdRun.exe" -Scan -ScanType 1
 EXIT
