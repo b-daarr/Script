@@ -26,3 +26,5 @@ ECHO.
 ECHO ----------------------------------------------------------
 "%ProgramFiles%\Windows Defender\MpCmdRun.exe" -Scan -ScanType 1
 EXIT
+
+:: the result shoews on notifications
